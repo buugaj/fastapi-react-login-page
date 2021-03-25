@@ -1,0 +1,12 @@
+fastapi==0.63.0
+httpx==0.15.5
+ipython==7.18.1
+itsdangerous==1.1.0
+Jinja2==2.11.3
+requests==2.24.0
+uvicorn==0.12.1
+passlib==1.7.2
+bcrypt==3.2.0
+python-multipart==0.0.5
+cryptography==3.4.6
+python-jose[cryptography]==3.2.0
