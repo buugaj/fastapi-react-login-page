@@ -25,7 +25,7 @@ https://www.loom.com/share/aabc7599aa1c4e448e19599225b36c05
 
 Total time spent: 2 hours 10 minutes
 ## TODO
-* logging out after token expires (right now it will be cleared on refresh)
+* logging out after token expires (clearing if it's outdated or after 401)
 * extending token life 
 * adding automated tests
 * commit stuff while working so time log creates itself...
