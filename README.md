@@ -5,6 +5,9 @@ Project that allows for logging in into artificial system with otp challenge sup
 * `docker-compose up`
 * Go to http://localhost:3000
 
+### Loom video
+https://www.loom.com/share/aabc7599aa1c4e448e19599225b36c05
+
 ### Credentials
 | Login  | Password | OTP enabled | Valid OTP |
 | ------------- | ------------- | ------------- | -------------  | 
